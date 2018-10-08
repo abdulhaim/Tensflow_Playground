@@ -1,4 +1,4 @@
-# Tensorflow_Playground
+# Tensorflow Playground
 
 Trying out various Tensorflow Tutorials!
 - Simple Linear Models
